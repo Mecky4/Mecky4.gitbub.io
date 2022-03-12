@@ -6,34 +6,34 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Mechthild Pieper
+title: MSc Student in Management of Information Systems 
+email: m.pieper02@gmail.com
+#website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username:  Mecky4
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: mecky4
+linkedin_username: mechthild-pieper-706597153
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,66 +48,102 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name is Mecky and am currently in my last semester of Master Studies. 
+  
+  My study focus lies on Management of Information Systems and I am particularly interested in the social implications of the use of artificial intelligence in orgnaizations. 
+  
+  I am currently finishing my Master Thesis on human-AI-augmentation, while simultaneously learning how technology shapes and impacts our work-environments, society and lifes. 
+  My goal is to keep conducting insightful and relevant research within these areas. 
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Projects # Title for the section
+  - title: Engagements # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        title: WoMenInTech (WIT) Mannehim 
+        link: https://wit-mannheim.webflow.io/
+        # link_text: Initiative's Website
+        #additional_links:
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          This cool group of people are the reasong why this amazing online CV of mine even exists! 
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          In fall 2020 I became part of this great initiative, which together with an enthusiastic group of people we have been building up every since. During bi-weekly meetings we chat about all kinds of tech topics. 
+          In addition we regularly invite inspiring speakers or hold small workshop, such as this one, where we learn to build our own online CV on GitHub. 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        title: Institue for Enterprise Systems (InES)
+        link: https://www.institute-for-enterprise-systems.de/
+        # link_text: insititute-for-enterprise-systems.de
+        sub_title: Research Assistant
+        caption: 5 months
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          [Cloud Mall Baden-Württemberg9](https://cloud-mall-bw.de/)
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
+          Working on a collaboration project for Cloud Computing cooperations with a focus on Artifical Intelligence development, implementation, and usage. 
+  
+      - layout: left
+        title: Lufthansa Cargo AG (LCAG)
+        link: https://lufthansa-cargo.com/
+        # link_text: lufthansa-cargo.com
+        sub_title: Supply Chain Management Intern
+        caption: 3 months
+        quote: >
+          In the area of Global Handling at Frankfurt am Main 
+        description: | # this will include new lines to allow paragraphs
+          Supporting software tests for the development and implementation of the IT-project "Product Planning and Steering", as well as conducting Supply Chain Management analysis for the global hubs of the LCAG.
+  
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Copenhagen Business School
+        caption: 2021 - 2022
+        sub_title: MSc Business Administration and Information Systems
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Double Degree Program with the University of Mannheim and Copenhagen Business School that provides the best of both worlds and a truly international experience.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+          During my year at CBS I strongly shifted my focus towards the management of technology within organizations, complemented with practical programming courses in Data Science and Machine Learning. 
+          
+          Meanwhile I conducted qualitative research for my master thesis concerned with human-AI-augmentation and the question "How AI can augment human decision-making, if the corresponding AI is supposed to learn form the decsision maker?"
+      
+      - layout: left
+        title: University of Mannheim
+        caption: 2020 - 2021
+        sub_title: MSc Mannheim Master in Management 
+        quote: >
+          Double Degree Program with the University of Mannheim and Copenhagen Business School that provides the best of both worlds and a truly international experience.
+        description: | # this will include new lines to allow paragraphs
+          During my first year of Master studies, I enjoyed a broader sientific and economic education that layed the foundation for all following undertakings. 
+          Courses such as Business Economics, Decision Analysis or Theories and (Empirical) Methods provided my the right tools and knowledge to focus on more specific issues and topics, such as Business Intelligence, Adaptaive Systems Management or IT-Project Complexities.
+          
+      - layout: left
+        title: University of Cologne 
+        caption: 2015 - 2019
+        sub_title: BSc Business Administration and Supply Chain Management 
+        quote: >
+          Getting to study for 3 years in the best city of the world! Plus international experience in China :) 
+        description: | # this will include new lines to allow paragraphs
+          I did my bachelors in Cologne, where i received the foundations in Business Adminsitration and Management, as well as economics and social science. First my interest were drawn towards logisitcs and supply chain management. 
+          Through international experiences and internships, I shifted towards analytics and data science, and thus decided to follow up the bachelors with a Master in Information Systems and IT Management. 
+      
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests in research and technology's social impact some of my other interests and hobbies are:
+      - Travelig (all around the world)
+      - Sports (Running, Climbing, Tennis)
+      - Music (i play the harp!) 
+      - [Baking videos on YouTube](https://www.youtube.com/watch?v=CZrVmK2kyFQ)
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
