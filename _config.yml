@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
-  - title: Engagements # Title for the section
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -72,12 +72,12 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This cool group of people are the reasong why this amazing online CV of mine even exists! 
+          This cool group of people are the reason why this amazing online CV of mine even exists! 
         description: | # this will include new lines to allow paragraphs
           In fall 2020 I became part of this great initiative, which together with an enthusiastic group of people we have been building up every since. During bi-weekly meetings we chat about all kinds of tech topics. 
           In addition we regularly invite inspiring speakers or hold small workshop, such as this one, where we learn to build our own online CV on GitHub. 
 
-  - title: Experience # Title for the section
+  - title: Experiences # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -90,8 +90,8 @@ content:
        #   [Cloud Mall Baden-Württemberg9](https://cloud-mall-bw.de/)
         description: | # this will include new lines to allow paragraphs
           Working on a collaboration project for Cloud Computing cooperations with a focus on Artifical Intelligence development, implementation, and usage. 
-        link: https://cloud-mall-bw.de/
-        # link_text: Cloud Mall Baden-Württemberg
+        [Cloud Mall Baden-Württemberg](https://cloud-mall-bw.de/)
+        
   
       - layout: left
         title: Lufthansa Cargo AG (LCAG)
