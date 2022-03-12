@@ -89,8 +89,7 @@ content:
        # quote: >
        #   [Cloud Mall Baden-Württemberg9](https://cloud-mall-bw.de/)
         description: | # this will include new lines to allow paragraphs
-          Working on a collaboration project for Cloud Computing cooperations with a focus on Artifical Intelligence development, implementation, and usage. 
-        [Cloud Mall Baden-Württemberg](https://cloud-mall-bw.de/)
+          Working on a collaboration project for Cloud Computing cooperations with a focus on Artifical Intelligence development, implementation, and usage. Website: cloud-mall-bw.de
         
   
       - layout: left
