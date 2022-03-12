@@ -90,7 +90,7 @@ content:
        #   [Cloud Mall Baden-Württemberg9](https://cloud-mall-bw.de/)
         description: | # this will include new lines to allow paragraphs
           Working on a collaboration project for Cloud Computing cooperations with a focus on Artifical Intelligence development, implementation, and usage. 
-          link: https://cloud-mall-bw.de/
+        link: https://cloud-mall-bw.de/
         # link_text: Cloud Mall Baden-Württemberg
   
       - layout: left
@@ -146,14 +146,14 @@ content:
       - Travelig (all around the world)
       - Sports (Running, Climbing, Tennis)
       - Music (I play the harp!) 
-      - [Baking Videos, because they are very relaxing](https://www.youtube.com/watch?v=CZrVmK2kyFQ)
+      - [Baking Videos, because they can be very relaxing](https://www.youtube.com/watch?v=CZrVmK2kyFQ)
 
      # Look at this cool image  
      # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
-# references_title: Built with Matt Sproogen's Modern Resume Theme (https://github.com/sproogen/modern-resume-theme)
+references_title: Built with Matt Sproogen's Modern Resume Theme (https://github.com/sproogen/modern-resume-theme)
 
 # Build settings
 remote_theme: sproogen/resume-theme
