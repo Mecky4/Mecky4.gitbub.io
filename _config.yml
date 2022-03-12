@@ -86,10 +86,12 @@ content:
         # link_text: insititute-for-enterprise-systems.de
         sub_title: Research Assistant
         caption: 5 months
-        quote: >
-          [Cloud Mall Baden-Württemberg9](https://cloud-mall-bw.de/)
+       # quote: >
+       #   [Cloud Mall Baden-Württemberg9](https://cloud-mall-bw.de/)
         description: | # this will include new lines to allow paragraphs
           Working on a collaboration project for Cloud Computing cooperations with a focus on Artifical Intelligence development, implementation, and usage. 
+          link: https://cloud-mall-bw.de/
+        # link_text: Cloud Mall Baden-Württemberg
   
       - layout: left
         title: Lufthansa Cargo AG (LCAG)
@@ -97,9 +99,10 @@ content:
         # link_text: lufthansa-cargo.com
         sub_title: Supply Chain Management Intern
         caption: 3 months
-        quote: >
-          In the area of Global Handling at Frankfurt am Main 
+        #quote: >
+        #  In the area of Global Handling at Frankfurt am Main 
         description: | # this will include new lines to allow paragraphs
+          In the area of Global Handling at Frankfurt am Main
           Supporting software tests for the development and implementation of the IT-project "Product Planning and Steering", as well as conducting Supply Chain Management analysis for the global hubs of the LCAG.
   
   - title: Education # Title for the section
@@ -131,7 +134,7 @@ content:
         caption: 2015 - 2019
         sub_title: BSc Business Administration and Supply Chain Management 
         quote: >
-          Getting to study for 3 years in the best city of the world! Plus international experience in China :) 
+          A three year Bachelor Programm in one of the coolest cities in the world !  
         description: | # this will include new lines to allow paragraphs
           I did my bachelors in Cologne, where i received the foundations in Business Adminsitration and Management, as well as economics and social science. First my interest were drawn towards logisitcs and supply chain management. 
           Through international experiences and internships, I shifted towards analytics and data science, and thus decided to follow up the bachelors with a Master in Information Systems and IT Management. 
@@ -142,15 +145,15 @@ content:
       Alongside my interests in research and technology's social impact some of my other interests and hobbies are:
       - Travelig (all around the world)
       - Sports (Running, Climbing, Tennis)
-      - Music (i play the harp!) 
-      - [Baking videos on YouTube](https://www.youtube.com/watch?v=CZrVmK2kyFQ)
+      - Music (I play the harp!) 
+      - [Baking Videos, because they are very relaxing](https://www.youtube.com/watch?v=CZrVmK2kyFQ)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+     # Look at this cool image  
+     # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+# references_title: Built with Matt Sproogen's Modern Resume Theme (https://github.com/sproogen/modern-resume-theme)
 
 # Build settings
 remote_theme: sproogen/resume-theme
