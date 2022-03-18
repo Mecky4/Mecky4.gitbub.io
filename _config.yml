@@ -61,7 +61,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: WoMenInTech (WIT) Mannehim 
+        title: WoMenInTech (WIT) Mannheim 
         link: https://wit-mannheim.webflow.io/
         # link_text: Initiative's Website
         #additional_links:
@@ -142,7 +142,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in research and technology's social impact some of my other interests and hobbies are:
-      - Travelig (all around the world)
+      - Traveling (all around the world)
       - Sports (Running, Climbing, Tennis)
       - Music (I play the harp!) 
       - [Baking Videos, because they can be very relaxing](https://www.youtube.com/watch?v=CZrVmK2kyFQ)
